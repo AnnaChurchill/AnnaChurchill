@@ -11,6 +11,7 @@ and I am currently learning languages:
 - HTML
 - CSS
 - Javascript
+
 My current project is learning to build a website, and eventually create a working blog.
 
 I hope in future to take on many personal projects to expand my knowledge and capabilites to make me more adaptable for future job oportunities.
